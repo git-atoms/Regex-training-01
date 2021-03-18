@@ -7,8 +7,11 @@
 
 <br>
 
-### Rozdział pierwszy: Wstęp
+### Rozdział pierwszy: Wprowadzenie
 
 <br>
 
-1. Teoria baz danych.
+1. Jakie problemy rozwiązuje RegEx?
+2. Czy RegEx jest uniwersalny?
+3. Dopasowanie tekstu
+4. Jak myśli RegEx?
