@@ -16,8 +16,11 @@
 RegEx rozwiązuje 4 konkretne problemy
 
 > 1./ Sprawdzenie tekstu ze wzorcem.<br>
-np. Sprawdzenie czy format jest taki jakiego oczekujemy.<br>
-Wynik to PRAWDA albo FAŁSZ.
+> np.:<br>
+> Sprawdzenie czy format jest taki jakiego oczekujemy.<br>
+Wynik to PRAWDA lub FAŁSZ.
+
+> 2./ Odnalezienie wzorca w tekście.<br>
 
 
 <br>
