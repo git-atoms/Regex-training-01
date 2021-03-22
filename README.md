@@ -15,7 +15,9 @@
 
 RegEx rozwiązuje 4 konkretne problemy
 
-> 1./ Sprawdzenie tekstu ze wzorcem.
+> 1./ Sprawdzenie tekstu ze wzorcem.<br>
+np. Sprawdzenie czy format jest taki jakiego oczekujemy.<br>
+Wynik to PRAWDA albo FAŁSZ.
 
 
 <br>
