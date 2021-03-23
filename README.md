@@ -25,11 +25,18 @@ Wynik to PRAWDA lub FAŁSZ.
 >Wyszukaj godzinę w tekście.<br>
 Wynik to znaleziona godzina, pokazanie pozycji, na której się zaczyna i na której się kończy.
 
+> 3./ Pocięcie tekstu na fragmenty.<br>
+> np.:<br>
+>Znaleźć godzinę w tekscie. Podzielić ja na godzinę i minuty.
+Wynik to np. godzina 16, minuty 58.
+
 
 
 
 <br>
 
-2. Czy RegEx jest uniwersalny?
+2. **Czy RegEx jest uniwersalny?**
+
+
 3. Dopasowanie tekstu
 4. Jak myśli RegEx?
