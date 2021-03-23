@@ -18,19 +18,28 @@ RegEx rozwiązuje 4 konkretne problemy
 > 1./ Sprawdzenie tekstu ze wzorcem.<br>
 > np.:<br>
 > Sprawdzenie czy format jest taki jakiego oczekujemy.<br>
-Wynik to PRAWDA lub FAŁSZ.
+Wynik: PRAWDA lub FAŁSZ.
+
+<br>
 
 > 2./ Odnalezienie wzorca w tekście (odnalezienie dopasowania).<br>
 >np.:<br>
 >Wyszukaj godzinę w tekście.<br>
-Wynik to znaleziona godzina, pokazanie pozycji, na której się zaczyna i na której się kończy.
+Wynik: znaleziona godzina, pokazanie pozycji, na której się zaczyna i na której się kończy.
+
+<br>
 
 > 3./ Pocięcie tekstu na fragmenty.<br>
 > np.:<br>
 >Znaleźć godzinę w tekscie. Podzielić ja na godzinę i minuty.
-Wynik to np. godzina 16, minuty 58.
+Wynik: np. godzina 16, minuty 58.
 
+<br>
 
+> 4./ Zamiana tekstu
+> np.:<br>
+>Zamienić kropkę na dwukropek.
+Wynik: RegEx to zrobi.
 
 
 <br>
