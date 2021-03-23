@@ -20,7 +20,12 @@ RegEx rozwiązuje 4 konkretne problemy
 > Sprawdzenie czy format jest taki jakiego oczekujemy.<br>
 Wynik to PRAWDA lub FAŁSZ.
 
-> 2./ Odnalezienie wzorca w tekście.<br>
+> 2./ Odnalezienie wzorca w tekście (odnalezienie dopasowania).<br>
+>np.:<br>
+>Wyszukaj godzinę w tekście.<br>
+Wynik to znaleziona godzina, pokazanie pozycji, na której się zaczyna i na której się kończy.
+
+
 
 
 <br>
