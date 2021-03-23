@@ -15,37 +15,65 @@
 
 RegEx rozwiązuje 4 konkretne problemy
 
-> 1./ Sprawdzenie tekstu ze wzorcem.<br>
+<br>
+
+
+1./
+> * Sprawdzenie tekstu ze wzorcem.<br>
 > np.:<br>
 > Sprawdzenie czy format jest taki jakiego oczekujemy.<br>
 Wynik: PRAWDA lub FAŁSZ.
 
 <br>
 
-> 2./ Odnalezienie wzorca w tekście (odnalezienie dopasowania).<br>
+
+2./
+> * Odnalezienie wzorca w tekście (odnalezienie dopasowania).<br>
 >np.:<br>
 >Wyszukaj godzinę w tekście.<br>
 Wynik: znaleziona godzina, pokazanie pozycji, na której się zaczyna i na której się kończy.
 
 <br>
 
-> 3./ Pocięcie tekstu na fragmenty.<br>
+
+3./
+> * Pocięcie tekstu na fragmenty.<br>
 > np.:<br>
 >Znaleźć godzinę w tekscie. Podzielić ja na godzinę i minuty.
 Wynik: np. godzina 16, minuty 58.
 
 <br>
 
-> 4./ Zamiana tekstu
+
+4./
+> * Zamiana tekstu
 > np.:<br>
 >Zamienić kropkę na dwukropek.
 Wynik: RegEx to zrobi.
 
+<br>
 
 <br>
 
 2. **Czy RegEx jest uniwersalny?**
 
+> PCRE<br>
+*Perl Compatible Regular Expressions* 
 
-3. Dopasowanie tekstu
-4. Jak myśli RegEx?
+<br>
+
+Javascript posiada bardzo ubogą bibliotekę RegEx (np. Python czy C# ma super) ale jedną linijką można dociągnąć świetną bibliotekę xRegEx.
+
+<br>
+
+<br>
+
+3. **Dopasowanie tekstu**
+
+Bardzo wygodne narzędzie: strona RegEx
+
+<br>
+
+<br>
+
+4. **Jak myśli RegEx?**
