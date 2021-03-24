@@ -70,10 +70,29 @@ Javascript posiada bardzo ubogą bibliotekę RegEx (np. Python czy C# ma super) 
 
 3. **Dopasowanie tekstu**
 
-Bardzo wygodne narzędzie: strona RegEx
+Bardzo wygodne narzędzie: strona [RegEx](https://regex101.com/).
 
 <br>
 
 <br>
 
 4. **Jak myśli RegEx?**
+
+> * RegEx porusza się od lewej do prawej.
+>
+> * Jego silnik porusza się po jednym znaku.
+>
+> * Kiedy RegEx dopasuje pierwszy znak, zapamiętuje swoją pozycję i stara się dopasować kolejny znak.
+>
+> * Jeśli bieżące dopasowanie się nie powiedzie, RegEx zapomni o dotychczas dopasowanych (tym razem) znakach i wróci do ostatnio zapamiętanej pozycji.
+> 
+> * Kiedy dopasowanie zakończy się sukcesem to RegEx albo zakończy pracę (brak flagi GLOBAL) albo będzie szukał nowych dopasowań dalej (za ostanio skończonym dopasowaniem) ale **nigdy** nie powróci do tekstu, który już raz został dopasowany.
+> 
+> * Kiedy RegEx masz szukać wszystkich dopasowań (włączona flaga GLOBAL) to zakończy swoją pracę dopiero po dojściu do samego końca tekstu.
+
+<br>
+
+<br>
+
+5. **Klasy znaków**
+
